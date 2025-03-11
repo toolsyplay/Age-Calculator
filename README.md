@@ -4,7 +4,6 @@ A simple **Age Calculator** built with **HTML, CSS, and JavaScript**. Enter your
 
 ### 🚀 Similar Website  
 👉 [Try the Age Calculator](https://toolsyplay.com/age-calculator)
-https://toolsyplay.com/age-calculator
 
 ## 📌 Features  
 ✅ **Instant Age Calculation** – Get accurate results in seconds.  
