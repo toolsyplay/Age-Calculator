@@ -1,23 +1,17 @@
-## Have you ever wondered how old you are in years, months, or even days? Our free Age Calculator is the easiest way to find out your exact age in seconds.
+# Age Calculator 🔢  
 
-### What is an Age Calculator?
-#### An Age Calculator is a simple tool that calculates your age based on your date of birth. It considers leap years and the exact number of months and days, giving you 100% accurate results.
+A simple **Age Calculator** built with **HTML, CSS, and JavaScript**. Enter your date of birth and instantly find out your exact age.  
 
-### How to Use Our Age Calculator?
-#### Our Toolsy Age Calculator is super easy to use:
-### ✅ Enter your Date of Birth in the input field.
-### ✅ Click the "Calculate" button.
-### ✅ Instantly get your exact age in years.
+## 🚀 Similar Website  
+👉 [Try the Age Calculator]([https://www.techitalki.com/](https://toolsyplay.com/age-calculator/))  
 
-Why Use Our Age Calculator?
-⭐ Instant & Accurate Results – Get your exact age in just one click!
-⭐ Simple & Free – No registration or fees required.
-⭐ Mobile-Friendly – Works perfectly on smartphones & tablets.
+## 📌 Features  
+✅ **Instant Age Calculation** – Get accurate results in seconds.  
+✅ **User-Friendly UI** – Clean and simple design.  
+✅ **Mobile Responsive** – Works on all devices.  
+✅ **Free & Open Source** – Modify and use as needed.  
 
-Try More Tools from Toolsy!
-We have 66+ free tools to make your life easier! Check out:
-🔹 Chronological Age Calculator – Find your precise chronological age.
-🔹 Age Difference Calculator – Compare ages between two people.
-🔹 Random Address Generator – Get a random address instantly.
-
-Start calculating now! Try our Online Age Calculator and get your exact age instantly. 🚀
+## 🛠️ How to Use  
+1. Enter your **date of birth** in the input field.  
+2. Click the **"Calculate"** button.  
+3. Get your **exact age** instantly.  
