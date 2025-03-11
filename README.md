@@ -3,7 +3,7 @@
 A simple **Age Calculator** built with **HTML, CSS, and JavaScript**. Enter your date of birth and instantly find out your exact age.  
 
 ### 🚀 Similar Website  
-👉 [Try the Age Calculator](https://www.techitalki.com/](https://toolsyplay.com/age-calculator)
+👉 [Try the Age Calculator](https://toolsyplay.com/age-calculator)
 
 ## 📌 Features  
 ✅ **Instant Age Calculation** – Get accurate results in seconds.  
