@@ -1,4 +1,4 @@
-# Age-Calculator
+# Age Calculator
 
 
 A brief description of the project.
